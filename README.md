@@ -20,6 +20,7 @@ The photos taken will be saved as photo.jpeg. The emotions detected will be save
 
 ! python typographyGenerator.py
 
+The typography will appear in a new window titled 'Typography'.
 
 NOTE: the fer2013.csv dataset must be installed.
 NOTE: When entering user text, input one word at a time. End the sentence with a fullstop
